@@ -1,0 +1,6 @@
+.env
+docker-compose.yaml
+data/repos.json
+data/store/
+data/themes/
+data/plugins/
