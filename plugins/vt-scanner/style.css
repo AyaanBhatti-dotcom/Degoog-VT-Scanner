@@ -1,0 +1,57 @@
+.vt-widget {
+  font-family: "MS Sans Serif", Arial, sans-serif;
+  background: var(--bg-light);
+  max-width: 652px;
+  color: var(--text-primary);
+  border: 2px solid;
+  border-top-color: #ffffff;
+  border-left-color: #ffffff;
+  border-right-color: #808080;
+  border-bottom-color: #808080;
+  box-shadow: 1px 1px 0 #000;
+  padding: 8px;
+}
+
+.vt-header {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-secondary);
+  margin-bottom: 0.75rem;
+  font-weight: 700;
+  border-bottom: 1px solid var(--border-light);
+  padding-bottom: 0.5rem;
+}
+
+.vt-url {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  word-break: break-all;
+  margin-bottom: 0.5rem;
+}
+
+.vt-status {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 0.25rem 0;
+}
+
+.vt-status-safe    { color: #00c853; }
+.vt-status-malicious { color: #d50000; }
+.vt-status-suspicious { color: #ff6d00; }
+.vt-status-unscanned { color: #2962ff; }
+.vt-status-error   { color: #888; }
+
+.vt-stats {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  margin-top: 0.25rem;
+}
+
+.vt-note {
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  opacity: 0.7;
+  margin-top: 0.5rem;
+  font-style: italic;
+}

@@ -4,7 +4,7 @@
   "author": "AyaanBhatti-dotcom",
   "plugins": [
     {
-      "path": ".",
+      "path": "plugins/vt-scanner",
       "name": "VirusTotal Scanner",
       "description": "On-demand VirusTotal URL scanning injected into search results.",
       "version": "1.0.0",

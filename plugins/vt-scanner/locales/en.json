@@ -1,0 +1,6 @@
+{
+  "vt-scanner": {
+    "name": "VirusTotal Scanner",
+    "description": "On-demand VirusTotal URL scanning injected into search results."
+  }
+}
