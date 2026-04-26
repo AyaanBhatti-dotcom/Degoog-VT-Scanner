@@ -6,11 +6,15 @@
 
 ## Background
 
+<img width="1861" height="966" alt="image" src="https://github.com/user-attachments/assets/b50af7dc-7dbb-4210-a250-7be0286b1386" />
+
+
 In today's digital landscape, privacy should be a fundamental right — not an afterthought. Major search engines and browsers constantly track everything you search, building profiles on you without your knowledge or consent. [Degoog](https://github.com/fccview/degoog) is a self-hosted, AI-stripped, Chromium-based search server that puts your privacy back in your hands, aggregating results from multiple engines without the surveillance.
 
 But privacy alone isn't enough. Knowing whether the links you're clicking are actually safe is just as important. That's where this plugin comes in.
 
 ---
+<img width="1861" height="966" alt="image" src="https://github.com/user-attachments/assets/b548e82c-43ac-4023-abb5-10dcee086e96" />
 
 ## What This Plugin Does
 
